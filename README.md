@@ -1,4 +1,4 @@
-The code performs the simulation study given in 
+The MATLAB live script [SIMULATION.mlx](https://github.com/laplcebeltrami/lb/blob/main/SIMULATION.mlx) performs the simulation study given in 
 
 Chung, M.K., Qiu, A., Seo S. Vorperian, H.K. 2015. Unified heat kernel regression for 
 diffusion, kernel smoothing and wavelets on manifolds and its application to mandible growth 
