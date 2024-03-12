@@ -6,7 +6,7 @@ modeling in CT images](https://github.com/laplcebeltrami/lb/blob/main/chung.2015
 
 
 ![alt text](https://github.com/laplcebeltrami/lb/blob/main/simulation.jpg?raw=true)
-Heat kernel smoothing utilizing the eigenfunction of LB-operator is expecte to perform the best due to the most accurate numerical accuracy in perfomring heat diffusion.
-Iterative version of heat kernel smoothing (tangent space apprximation) is expected to perform worst due to confounding numerical error.
+Heat kernel smoothing utilizing the eigenfunction of LB-operator is expect to perform the best due to the most accurate numerical accuracy in perfomring heat diffusion. Iterative version of heat kernel smoothing (tangent space apprximation) is expected to perform worst due to confounding numerical error over each iteration.
+
 
 2024 (C) Moo K. Chung, Unvierstiy of Wisconsin-Madison
